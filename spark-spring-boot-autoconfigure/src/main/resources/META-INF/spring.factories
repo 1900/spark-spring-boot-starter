@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\com.funtime.bigdata.spark.boot.autoconfigure.SparkAutoConfiguration

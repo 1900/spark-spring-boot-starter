@@ -1,0 +1,4 @@
+com/onedream/bigdata/spark/boot/autoconfigure/properties/SparkProperties.class
+com/onedream/bigdata/spark/boot/autoconfigure/properties/SparkProperties$StreamingProperties.class
+META-INF/spring-configuration-metadata.json
+com/onedream/bigdata/spark/boot/autoconfigure/SparkAutoConfiguration.class
